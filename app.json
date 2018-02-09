@@ -1,0 +1,12 @@
+{
+  "name": "API.AI webhook sexbotics",
+  "description": "API.AI webhook sexbotics",
+  "repository": "https://github.com/SushiBalboha/Sexbotics",
+  "logo": "",
+  "keywords": ["api.ai", "natural language"],
+  "buildpacks":[
+  {
+  "url":"heroky/python"
+  }
+  ]
+}
